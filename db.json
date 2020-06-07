@@ -9,7 +9,7 @@
                       },
                 "tooltip" : {"enable": "true"},
                 "legendSetting" :{
-                  "visible":"true",
+                  "visible":"false",
                   "position":"Top"
                 },
                 "seriesData": [

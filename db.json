@@ -8,9 +8,9 @@
 
                       },
                 "tooltip" : {"enable": "true"},
-                "legendSetting" :{
-                  "visible":"false",
-                  "position":"Top"
+                "legendSettings": {
+                        "visible": "true",
+                        "position": "Top"
                 },
                 "seriesData": [
                              {
